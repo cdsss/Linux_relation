@@ -1,2 +1,4 @@
 Run C program:
-1. gcc -o hello hello.c & ./hello
+1. gcc -o hello hello.c 
+
+2. gcc –g gdb_example.c –o gdb_example
